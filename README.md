@@ -1,6 +1,5 @@
-Nucleo-F446REでCKD製ソレノイドバルブを制御することを目的とした備忘録兼作業場です。
-
-## 使用環境
+This is a workspace and log for controlling a CKD solenoid valve using a Nucleo-F446RE.
+## Usage environment
 
 - Nucleo-F446RE
 - mbed
